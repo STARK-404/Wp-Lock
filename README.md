@@ -12,10 +12,7 @@ It's a Simple Wp-venom  For restrict From  WhatsApp login.When You L0ck A number
 
 # Tutorial
 
-<video width="320" height="240" autoplay>
-  <source src="https://mrstarkstore.000webhostapp.com/Tutorial.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video src='https://mrstarkstore.000webhostapp.com/Tutorial.mp4'> </video>
 
 # Installation
 

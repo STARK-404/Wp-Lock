@@ -13,7 +13,7 @@ It's a Simple Wp-venom  For restrict From  WhatsApp login.When You L0ck A number
 # Tutorial
 
 <video width="320" height="240" autoplay>
-  <source src="video.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/STARK-404/Whatsapp-Lock/main/images/Vid_20240417_081642.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

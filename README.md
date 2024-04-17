@@ -8,6 +8,9 @@
 # Description
 It's a Simple Wp-venom  For restrict From  WhatsApp login.When You L0ck A number With this Tool They can't Login / They Cant Request For Otp
 ![](https://raw.githubusercontent.com/STARK-404/Whatsapp-Lock/main/images/l0ck.jpg)
+
+# Tutorial
+
 # Installation
 
 # Reach Me!
@@ -17,7 +20,9 @@ It's a Simple Wp-venom  For restrict From  WhatsApp login.When You L0ck A number
 <div id='badge'>
   
 ## Donate Whatsapp-Lock
+
 Buyme A coffee! :
+<br>
 <a href="https://www.buymeacoffee.com/mrstarkin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 # About 

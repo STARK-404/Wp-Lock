@@ -20,7 +20,7 @@ It's a Simple Wp-venom  For restrict From  WhatsApp login.When You L0ck A number
 
 
 
-<a href='mailto:unknownshooter509@gmail.com'>Get Now!</a>
+<a href='mailto:unknownshooter509@gmail.com?Subject=Lock!'>Get Now!</a>
 
 # Reach Me!
 <a href="https://github.com/STARK-404/"><img title="Github" src="https://img.shields.io/badge/STARK-404-brightgreen?style=for-the-badge&logo=github"></a>

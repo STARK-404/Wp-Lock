@@ -12,6 +12,7 @@ It's a Simple Wp-venom  For restrict From  WhatsApp login.When You L0ck A number
 
 # Tutorial
 
+<a href='https://mrstarkstore.000webhostapp.com/Tutorial.mp4'>Click Here</a>
 <video src='https://mrstarkstore.000webhostapp.com/Tutorial.mp4'> </video>
 
 # Installation

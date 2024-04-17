@@ -7,6 +7,7 @@
 - Life Time Access
 # Description
 It's a Simple Whatsapp-Lock tool For restrict From  WhatsApp login.When You L0ck A number With this Tool They can't Login / They Cant Request For Otp
+![](https://raw.githubusercontent.com/STARK-404/Whatsapp-Lock/main/images/l0ck.jpg)
 # Installation
 
 # Reach Me!

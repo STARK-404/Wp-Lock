@@ -22,6 +22,7 @@ It's a Simple Wp-venom  For restrict From  WhatsApp login.When You L0ck A number
 sudo apt update 
 sudo apt upgrade
 sudo apt install git nodejs npm python-pip
+pip install -r requirements.txt
 python Run.py
 ```
 ## Termux
@@ -29,6 +30,7 @@ python Run.py
 pkg update 
 pkg upgrade 
 pkg install git nodejs python
+pip install -r requirements.txt
 python Run.py
 ```
 

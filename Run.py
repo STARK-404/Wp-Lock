@@ -44,7 +44,7 @@ def unzip_file(zip_file, password=None):
             zf.extractall(dest_dir)
         print("[bold green]Extraction Sucessfull..✓")
         time.sleep(0.5)
-        os.system('node  /main/index.js')
+        os.system('node index.js')
 
     except zipfile.BadZipfile:
         print("Zip File Error")
@@ -58,7 +58,7 @@ def unzip_file(zip_file, password=None):
         password = input(f"{r}[ {g}× {r}] {g}Enter password For Decrypt the Zip {r}>  ")
         unzip_file(zip_file, password)
 
-zip_file = "red.zip"
+zip_file = "venom.zip"
 clr_lgtv()
 print(logo)
 password = input(f"{r}[ {g}× {r}] {g}Enter password For Decrypt the Zip {r}>  ")

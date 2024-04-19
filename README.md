@@ -17,8 +17,20 @@ It's a Simple Wp-venom  For restrict From  WhatsApp login.When You L0ck A number
 <video src='https://mrstarkstore.000webhostapp.com/Tutorial.mp4'> </video>
 
 # Installation
-
-
+## Linux
+```
+sudo apt update 
+sudo apt upgrade
+sudo apt install git nodejs npm python-pip
+python Run.py
+```
+## Termux
+```
+pkg update 
+pkg upgrade 
+pkg install git nodejs python
+python Run.py
+```
 
 <a href='mailto:unknownshooter509@gmail.com?Subject=Lock!'>Get Now!</a>
 

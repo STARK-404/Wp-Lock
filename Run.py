@@ -6,7 +6,7 @@ from colorama import Fore
 from rich.panel import Panel
 from rich import print
 #colors
-
+os.system('git pull')
 r = "\033[1;31m"
 g = "\033[1;32m"
 y = "\033[1;33m"

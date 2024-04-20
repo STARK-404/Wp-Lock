@@ -62,9 +62,11 @@ python Run.py
 `https://github.com/STARK-404/Whatsapp-Lock.git`
 - Unzip the File
 - Open Cmd
-<br>
+
+  
 ``pip install -r requirements.txt``
-<br>
+
+
   ``python Run.py``
   
 

@@ -33,6 +33,27 @@ pkg install git nodejs python
 pip install -r requirements.txt
 python Run.py
 ```
+## Windows
+**Install Git**:
+- Go to the official Git website: https://git-scm.com/
+- Download the latest version for Windows.Run the installer.
+- Follow the installation steps, leaving the options at their defaults unless you have specific preferences.
+- Once installed, open Git Bash to verify the installation by typing git --version and pressing Enter.You should see the installed Git version.
+**Install Node.js**:
+- Go to the official Node.js website: https://nodejs.org/
+- Download the LTS (Long Term Support) version for Windows.
+- Run the installer.
+- Follow the installation steps, leaving the options at their defaults unless you have specific preferences.
+- Once installed, open Command Prompt or PowerShell and type node -v to check if Node.js is installed. You should see the installed Node.js version.
+- Additionally, you can type npm -v to verify that npm (Node Package Manager) is also installed.That's it! You've successfully installed Git and Node.js on your Windows system.
+**Clone The repo**:
+- Download the repo zip from
+`https://github.com/STARK-404/Whatsapp-Lock.git`
+- Unzip the File
+- Open Cmd
+ `` pip install -r requirements.txt``
+  ``python Run.py``
+  
 
 <a href='mailto:unknownshooter509@gmail.com?Subject=Lock!'>Get Now!</a>
 

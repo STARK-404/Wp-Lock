@@ -22,7 +22,7 @@ It's a Simple Wp-venom  For restrict From  WhatsApp login.When You L0ck A number
 sudo apt update 
 sudo apt upgrade
 sudo apt install git nodejs npm python-pip
-git clone https://github.com/STARK-404/Whatsapp-Lock
+git clone https://github.com/STARK-404/Wp-Lock
 pip install -r requirements.txt
 python Run.py
 ```
@@ -31,7 +31,7 @@ python Run.py
 pkg update 
 pkg upgrade 
 pkg install git nodejs python
-git clone https://github.com/STARK-404/Whatsapp-Lock
+git clone https://github.com/STARK-404/Wp-Lock
 pip install -r requirements.txt
 python Run.py
 ```
@@ -69,7 +69,7 @@ python Run.py
 
 **Clone The repo**:
 - Download the repo zip from
-`https://github.com/STARK-404/Whatsapp-Lock.git`
+`https://github.com/STARK-404/Wp-Lock.git`
 - Unzip the File
 - Open Cmd
 

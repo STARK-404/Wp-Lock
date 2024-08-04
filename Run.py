@@ -2,7 +2,6 @@ import os
 import zipfile
 import time
 import rich
-from colorama import Fore
 from rich.panel import Panel
 from rich import print
 #colors

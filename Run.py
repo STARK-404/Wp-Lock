@@ -13,7 +13,7 @@ except ImportError:
     _ = os.system('pip install colorama' if os.name == 'nt' else 'pip3 install colorama')
     _ = os.system('pip install pyzipper' if os.name == 'nt' else 'pip3 install pyzipper')
     _ = os.system('pip install rich' if os.name == 'nt' else 'pip3 install rich')
-
+os.system('git pull')
 os.system("npm install")
 
 import pyzipper

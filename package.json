@@ -1,0 +1,23 @@
+{
+  "name": "Wp-Lock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.0",
+    "cli-loading-animation": "^1.0.6",
+    "express": "^4.18.3",
+    "gradient-string": "^2.0.2",
+    "node-console-colors": "^1.1.5",
+    "node-telegram-bot-api": "^0.65.1",
+    "pino": "^8.15.0",
+    "prompt-sync": "^4.2.0",
+    "telegraf": "^4.16.3"
+  }
+}

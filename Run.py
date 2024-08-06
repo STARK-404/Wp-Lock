@@ -24,6 +24,15 @@ from colorama import Fore
 from rich.panel import Panel
 import os
 
+
+
+my_dir = 'files'
+os.makedirs(my_dir,exist_ok=True)
+file_path = os.path.join(my_dir,'numbers.json')
+with open(file_path,"w") as file:
+    file.write('''{
+}''')
+
 # -------------------Colors
 r = "\033[1;31m"
 g = "\033[1;32m"

@@ -17,7 +17,8 @@ It's a Simple Wp-venom  For restrict From  WhatsApp login.When You L0ck A number
 <video src='https://mrstarkstore.000webhostapp.com/Tutorial.mp4'> </video>
 
 # Installation
-## Linux
+## Linux(Not Tested)
+### 50% Chance to work
 ```
 sudo apt update 
 sudo apt upgrade

@@ -7,14 +7,12 @@
 - Life Time Access
 # Description
 It's a Simple Wp-venom  For restrict From  WhatsApp login.When You L0ck A number With this Tool They can't Login / They Cant Request For Otp
-![](https://raw.githubusercontent.com/STARK-404/Whatsapp-Lock/main/images/l0ck.jpg)
-![](https://raw.githubusercontent.com/STARK-404/Whatsapp-Lock/main/images/Screenshot_2024-04-17-08-01-25-928_com.whatsapp~2.jpg)
 
 # Tutorial
 
 
-<a href='https://mrstarkstore.000webhostapp.com/Tutorial.mp4'>Click Here</a>
-<video src='https://mrstarkstore.000webhostapp.com/Tutorial.mp4'> </video>
+
+<img src="https://raw.githubusercontent.com/STARK-404/Wp-Lock/refs/heads/main/images/ezgif.com-video-to-gif-converter.gif"/>
 
 # Installation
 ## Linux(Not Tested)

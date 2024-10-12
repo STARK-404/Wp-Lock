@@ -1,4 +1,4 @@
-#  Wp-venom
+#  Wp-Lock
 
 
 ## About
@@ -15,8 +15,7 @@ It's a Simple Wp-venom  For restrict From  WhatsApp login.When You L0ck A number
 <img src="https://raw.githubusercontent.com/STARK-404/Wp-Lock/refs/heads/main/images/ezgif.com-video-to-gif-converter.gif"/>
 
 # Installation
-## Linux(Not Tested)
-### 50% Chance to work
+## Linux
 ```
 sudo apt update 
 sudo apt upgrade

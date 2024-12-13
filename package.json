@@ -1,13 +1,13 @@
 {
   "name": "Wp-Lock",
-  "version": "2.0.0",
+  "version": "2.5.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "stark-404",
+  "author": "STARK-404",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.4.0",
@@ -19,5 +19,8 @@
     "pino": "^8.15.0",
     "prompt-sync": "^4.2.0",
     "telegraf": "^4.16.3"
+  },
+  "devDependencies": {
+    "@justry/testbaileys": "^6.6.0"
   }
 }

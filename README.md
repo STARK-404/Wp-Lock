@@ -2,7 +2,7 @@
 
 
 ## About
-- Unlimited Lock(premium)
+- Unlimited Lock
 - Lock Any Country Numbers
 - Life Time Access
 # Description

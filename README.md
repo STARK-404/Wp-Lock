@@ -10,7 +10,7 @@ It's a Simple Wp-venom  For restrict From  WhatsApp login.When You L0ck A number
 
 # Tutorial
 
-
+Youtube Tutorial : https://youtu.be/MCjoWd45UjU?si=vFmc4Zym3kpcdyoP
 
 <img src="https://raw.githubusercontent.com/STARK-404/Wp-Lock/refs/heads/main/images/ezgif.com-video-to-gif-converter.gif"/>
 

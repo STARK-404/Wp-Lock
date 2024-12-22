@@ -35,6 +35,9 @@ cd Wp-Lock
 pip install -r requirements.txt
 python Run.py
 ```
+#Trail
+For trail Join :  https://t.me/wpvenom
+
 ## Windows
 **Install Git**:
 - Go to the official Git website: https://git-scm.com/
